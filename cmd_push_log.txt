@@ -1,0 +1,32 @@
+﻿cmd : remote: 
+Permission to Sasigay
+a3/Todo_Application.g
+it denied to 
+Shyam2119.
+At line:1 char:1
++ cmd /c "cd /d 
+D:\Shyam\Todo 
+Application && git 
+push -u origin main 
+-- ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (remote:   
+  Permiss...d to     
+Shyam2119.:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+fatal: unable to 
+access 'https://githu
+b.com/Sasigaya3/Todo_
+Application.git/': 
+The requested URL 
+returned error: 403
